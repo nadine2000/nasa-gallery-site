@@ -1,0 +1,13 @@
+/* CSS if any */
+.custom-background {
+    background-image: url('../images/mars.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+    color: white;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
